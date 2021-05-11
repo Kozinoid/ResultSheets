@@ -1,0 +1,24 @@
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\bin\Release\ResultSheets.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\bin\Release\ResultSheets.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\bin\Release\ResultSheets.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.ResultViewSheet.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.SheetColorSchemeEditor.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\ResultSheets\ResultSheets\obj\Release\ResultSheets.EnterNameForm.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\bin\Release\ResultSheets.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\bin\Release\ResultSheets.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\bin\Release\ResultSheets.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.EnterNameForm.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.ResultViewSheet.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.SheetColorSchemeEditor.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\ResultSheets\ResultSheets\obj\Release\ResultSheets.csproj.GenerateResource.Cache
